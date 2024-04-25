@@ -4,7 +4,7 @@
 [![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](iagofreits@gmail.com)
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagocfreitas)
 [![Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/iagofreits)
-[![Badge](https://img.shields.io/badge/Exercism%20-%20purple?logo=Exercism)](https://exercism.org/profiles/IagoFreitas)
+[![Badge](https://img.shields.io/badge/Exercism%20-%20purple?style=for-the-badge&logo=Exercism)](https://exercism.org/profiles/IagoFreitas)
 
 #### • skill set:
 
