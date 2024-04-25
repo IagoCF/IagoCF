@@ -2,7 +2,7 @@
 
 #### • Entre em contato comigo! :D
 
-[![Badge]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/iagofreits%40gmail.com%20-%20red?style=for-the-badge&logo=gmail))]()
+[![Badge](https://img.shields.io/badge/iagofreits%40gmail.com%20-%20red?style=for-the-badge&logo=gmail)]()
 
 #### • Curso Ciência da Computação na Unipac
 
