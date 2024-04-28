@@ -21,3 +21,4 @@
 [![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoCF&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasaComputadores&layout=compact)
